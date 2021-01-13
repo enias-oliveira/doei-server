@@ -4,33 +4,82 @@
       "id": 1,
       "email": "teste@gmail.com",
       "password": "$2a$10$yI/qflzpkjFXjTA4/6PzcurHTOuafbmGGyCCsd2yAWb/mapfOp/46",
-      "name" : "Enias",
-      "ong" : false
-
+      "userInfo" : {
+      "firstName" : "Enias",
+      "lastName" : "Oliveira",
+      "ngo" : false,
+      "cpf" :36238549050
+      },
+      "address" : {
+      "postalCode" : null,
+      "streetName" : null,  
+      "streetNumber" : null,
+      "apartmentNumber" : null,
+      "city": "Curitiba"
+      },
+      "image": "Não sei como resolver ainda" 
     },
     {
       "id": 2,
       "email": "teste2@gmail.com",
       "password": "$2a$10$IG/IuExdr3N/Ct7W/nkyxeaiCUbNIkUV008fr.3bnoDRVffxP3jHG",
+     "userInfo" : {
       "name" : "Pequeno Principe",
-      "ong" : true
+      "ngo" : true,
+      "cnpj" : 74615528000101,
+      "phoneNumber" : null,
+      "website" : "pequenoprincipe.com"
+      },
+      "address" : {
+      "postalCode" : null,
+      "streetName" : null,  
+      "streetNumber" : null,
+      "apartmentNumber" : null,
+      "city": "Curitiba"
+      },
+      "image": "Não sei como resolver ainda"
     }
   ],
+
   "campaigns": [
     {
       "id": 0,
       "title": "Meias para os Pequenos Principes(?)",
-      "content": "Precisamos de 500 meias",
+      "about": "Precisamos de 500 meias",
+      "donationType" : "Roupas",
+      "goal" : 500,
+      "initialDate" : "2021-01-12T16:55:00",
+      "endDate" : "2021-01-14T17:00:00",
+      "userId" :2
+    },
+    {
+      "id": 1,
+      "title": "Sapatos para os Pequenos Principes(?)",
+      "about": "Precisamos de 250 meias",
+      "donationType" : "Calçados",
+      "goal" : 250,
+      "initialDate" : "2021-01-12T16:55:00",
+      "endDate" : "2021-01-14T17:00:00",
       "userId" :2
     }
-    
   ],
   "donations": [
     {
       "id": 0,
       "campaignId": 0,
-      "content": "Vou doar 50 meias",
+      "message": "Vou doar 50 meias",
       "username": "Enias",
+      "scheduledDate" : "2021-01-13T17:00:00",
+      "quantity" : 50,
+      "userId" : 1
+    },
+    {
+      "id": 1,
+      "campaignId": 0,
+      "message": "Vou doar 10 meias",
+      "username": "Felipe",
+      "scheduledDate" : "2021-01-13T17:00:00",
+      "quantity" : 25,
       "userId" : 1
     }
   ]
