@@ -1,23 +1,37 @@
 {
   "users": [
     {
+      "id": 1,
       "email": "teste@gmail.com",
       "password": "$2a$10$yI/qflzpkjFXjTA4/6PzcurHTOuafbmGGyCCsd2yAWb/mapfOp/46",
-      "id": 1
+      "name" : "Enias",
+      "ong" : false
+
+    },
+    {
+      "id": 2,
+      "email": "teste2@gmail.com",
+      "password": "$2a$10$IG/IuExdr3N/Ct7W/nkyxeaiCUbNIkUV008fr.3bnoDRVffxP3jHG",
+      "name" : "Pequeno Principe",
+      "ong" : true
     }
   ],
-  "posts": [
+  "campaigns": [
     {
       "id": 0,
-      "title": "First post!",
-      "content": "My first content!"
+      "title": "Meias para os Pequenos Principes(?)",
+      "content": "Precisamos de 500 meias",
+      "userId" :2
     }
+    
   ],
-  "comments": [
+  "donations": [
     {
       "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "campaignId": 0,
+      "content": "Vou doar 50 meias",
+      "username": "Enias",
+      "userId" : 1
     }
   ]
 }
