@@ -4,11 +4,12 @@
       "id": 1,
       "email": "teste@gmail.com",
       "password": "$2a$10$yI/qflzpkjFXjTA4/6PzcurHTOuafbmGGyCCsd2yAWb/mapfOp/46",
+        "ngo" : false,
+      "ngoInfo" : null,
       "userInfo" : {
       "firstName" : "Enias",
       "lastName" : "Oliveira",
-      "ngo" : false,
-      "cpf" :36238549050
+      "phoneNumber" : null
       },
       "address" : {
       "postalCode" : null,
@@ -23,10 +24,10 @@
       "id": 2,
       "email": "teste2@gmail.com",
       "password": "$2a$10$IG/IuExdr3N/Ct7W/nkyxeaiCUbNIkUV008fr.3bnoDRVffxP3jHG",
-     "userInfo" : {
-      "name" : "Pequeno Principe",
       "ngo" : true,
-      "cnpj" : 74615528000101,
+      "userInfo" : null,
+      "ngoInfo" : {
+      "name" : "Pequeno Principe",
       "phoneNumber" : null,
       "website" : "pequenoprincipe.com"
       },
