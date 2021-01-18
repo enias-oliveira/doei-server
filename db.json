@@ -266,26 +266,86 @@
   "campaigns": [
     {
       "id": 0,
-      "title": "Meias para os Pequenos Principes(?)",
-      "about": "Precisamos de 500 meias",
+      "title": "Meias para os Pequenos Príncipes",
+      "about": "Nos ajude doando meias para nossos príncipes e princesas. Precisamos arrecadar 200 pares de meias para crianças de todas as idades.",
       "donationType" : "Roupas",
       "goal" : 500,
-      "initialDate" : "2021-01-12T16:55:00",
-      "endDate" : "2021-01-14T17:00:00",
+      "initialDate" : "10/12/2020",
+      "endDate": "24/01/2021",
+      "ongName": "Associação Pequeno Príncipe",
+      "location": "Curitiba-PR",
       "userId" :2
     },
     {
       "id": 1,
-      "title": "Sapatos para os Pequenos Principes(?)",
-      "about": "Precisamos de 250 meias",
-      "donationType" : "Calçados",
-      "goal" : 250,
-      "initialDate" : "2021-01-12T16:55:00",
-      "endDate" : "2021-01-14T17:00:00",
-      "userId" :2
+      "title": "Anjos calçados",
+      "about": "Campanha de arrecadação de 50 pares de sapatos para crianças de todas as idades.",
+      "initialDate" : "05/12/2020",
+      "endDate": "22/03/2021",
+      "ongName": "ONG Anjos da Salvação",
+      "location": "Curitiba-PR",
+      "userId" :5
     },
-    {"id" : 2,
-    "title": "Campanha do Agasalho d"}
+    {
+      "id" : 2,
+      "title": "Campanha do Agasalho Solidário",
+      "about": "Temos a meta de arrecadar 500 agasalhos para doação à moradores de rua. ",
+      "initialDate" : "18/01/2021",
+      "endDate": "20/02/2021",
+      "userId": 3,
+      "ongName": "Hospital São João",
+      "location": "Curitiba-PR"
+    },
+    {
+      "id" : 3,
+      "title": "Campanha do Amigo Feliz",
+      "about": "Nos ajude a levar mais felicidade para as crianças. Colabore com a nossa campanha de arrecadação de novas roupas crianças de todas as idades.",
+      "initialDate" : "10/12/2020",
+      "endDate": "15/02/2021",
+      "userId": 4,
+      "ongName": "ONG Amigos do Bem",
+      "location": "Curitiba-PR"
+    },
+    {
+      "id" : 4,
+      "title": "Campanha Levando Ajuda",
+      "about": "Campanha para arrecadação de roupas para moradores de rua de todas as faixas etárias.",
+      "initialDate" : "12/11/2020",
+      "endDate": "18/03/2021",
+      "userId": 10,
+      "ongName": "Associação Ajudar ao Próximo",
+      "location": "Curitiba-PR"
+    },
+     {
+      "id" : 5,
+      "title": "Campanha de arrecadação de roupas do Hospital Santa Maria",
+      "about": "Nos ajude doando suas roupas que não estão mais sendo usadas.",
+      "initialDate" : "02/01/2021",
+      "endDate": "08/02/2021",
+      "userId": 11,
+      "ongName": "Hospital Santa Maria",
+      "location": "Curitiba-PR"
+    },
+    {
+      "id" : 5,
+      "title": "Campanha de arrecadação cobertores",
+      "about": "Nos ajude a arrecadar cobertores para os mais necessitados. Temos a meta de arrecadar 150 cobertores para distribuirmos entre pessoas em situação de vulnerabilidade.",
+      "initialDate" : "09/01/2021",
+      "endDate": "11/02/2021",
+      "userId": 12,
+      "ongName": "Associação Luta pela Paz",
+      "location": "Curitiba-PR"
+    }, 
+    {
+      "id" : 6,
+      "title": "Campanha Faça o Bem",
+      "about": "Nos ajude com a arrecadação de roupas para todas as faixas etárias (principalmente roupas infantis) para levarmos maior conforto na vida dessas familias. Aceitamos quaisquer peça de roupa.",
+      "initialDate" : "06/01/2021",
+      "endDate": "12/04/2021",
+      "userId": 8,
+      "ongName": "ONG Recando do Bem",
+      "location": "Curitiba-PR"
+    }
   ],
   "donations": [
     {
