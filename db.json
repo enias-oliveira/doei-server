@@ -27,7 +27,7 @@
       "ngo" : true,
       "userInfo" : null,
       "ngoInfo" : {
-      "name" : "Pequeno Principe",
+      "name" : "Associação Pequeno Principe",
       "phoneNumber" : null,
       "website" : "pequenoprincipe.com"
       },
@@ -39,7 +39,228 @@
       "city": "Curitiba"
       },
       "image": "Não sei como resolver ainda"
+    },
+    {
+      "id": 3,
+      "email": "hospital.saojoao@gmail.com",
+      "password": "",
+      "ngo" : true,
+      "userInfo" : null,
+      "ngoInfo" : {
+      "name" : "Hospital São João",
+      "phoneNumber" : null,
+      "website" : "null"
+      },
+      "address" : {
+      "postalCode" : null,
+      "streetName" : null,  
+      "streetNumber" : null,
+      "apartmentNumber" : null,
+      "city": "Curitiba"
+      },
+      "image": "Não sei como resolver ainda"
+    },
+    {
+      "id": 4,
+      "email": "amigosdobem@gmail.com",
+      "password": "",
+      "ngo" : true,
+      "userInfo" : null,
+      "ngoInfo" : {
+      "name" : "ONG Amigos do Bem",
+      "phoneNumber" : null,
+      "website" : "amigosdobem.com"
+      },
+      "address" : {
+      "postalCode" : null,
+      "streetName" : null,  
+      "streetNumber" : null,
+      "apartmentNumber" : null,
+      "city": "Curitiba"
+      },
+      "image": "Não sei como resolver ainda"
+    },
+    {
+      "id": 5,
+      "email": "anjosdasalvacao@gmail.com",
+      "password": "",
+      "ngo" : true,
+      "userInfo" : null,
+      "ngoInfo" : {
+      "name" : "ONG Anjos da Salvação",
+      "phoneNumber" : null,
+      "website" : "anjosdasalvacao.com"
+      },
+      "address" : {
+      "postalCode" : null,
+      "streetName" : null,  
+      "streetNumber" : null,
+      "apartmentNumber" : null,
+      "city": "Curitiba"
+      },
+      "image": "Não sei como resolver ainda"
+    },
+    {
+      "id": 6,
+      "email": "hospitalsaofrancisco@gmail.com",
+      "password": "",
+      "ngo" : true,
+      "userInfo" : null,
+      "ngoInfo" : {
+      "name" : "Hospital São Francisco",
+      "phoneNumber" : null,
+      "website" : ""
+      },
+      "address" : {
+      "postalCode" : null,
+      "streetName" : null,  
+      "streetNumber" : null,
+      "apartmentNumber" : null,
+      "city": "Curitiba"
+      },
+      "image": "Não sei como resolver ainda"
+    },
+    {
+      "id": 7,
+      "email": "amigadossonhos@gmail.com",
+      "password": "",
+      "ngo" : true,
+      "userInfo" : null,
+      "ngoInfo" : {
+      "name" : "ONG Amiga dos Sonhos",
+      "phoneNumber" : null,
+      "website" : ""
+      },
+      "address" : {
+      "postalCode" : null,
+      "streetName" : null,  
+      "streetNumber" : null,
+      "apartmentNumber" : null,
+      "city": "Curitiba"
+      },
+      "image": "Não sei como resolver ainda"
+    },
+    {
+      "id": 8,
+      "email": "recantodobem@gmail.com",
+      "password": "",
+      "ngo" : true,
+      "userInfo" : null,
+      "ngoInfo" : {
+      "name" : "ONG Recando do Bem",
+      "phoneNumber" : null,
+      "website" : ""
+      },
+      "address" : {
+      "postalCode" : null,
+      "streetName" : null,  
+      "streetNumber" : null,
+      "apartmentNumber" : null,
+      "city": "Curitiba"
+      },
+      "image": "Não sei como resolver ainda"
+    },
+    {
+      "id": 9,
+      "email": "encantosolidario@gmail.com",
+      "password": "",
+      "ngo" : true,
+      "userInfo" : null,
+      "ngoInfo" : {
+      "name" : "ONG Encanto Solidário",
+      "phoneNumber" : null,
+      "website" : ""
+      },
+      "address" : {
+      "postalCode" : null,
+      "streetName" : null,  
+      "streetNumber" : null,
+      "apartmentNumber" : null,
+      "city": "Curitiba"
+      },
+      "image": "Não sei como resolver ainda"
+    },
+    {
+      "id": 10,
+      "email": "hospitalnossasenhoradefatima@gmail.com",
+      "password": "",
+      "ngo" : true,
+      "userInfo" : null,
+      "ngoInfo" : {
+      "name" : "Hospital Nossa Senhora de Fátima",
+      "phoneNumber" : null,
+      "website" : ""
+      },
+      "address" : {
+      "postalCode" : null,
+      "streetName" : null,  
+      "streetNumber" : null,
+      "apartmentNumber" : null,
+      "city": "Curitiba"
+      },
+      "image": "Não sei como resolver ainda"
+    },
+    {
+      "id": 10,
+      "email": "ajudaraoproximo@gmail.com",
+      "password": "",
+      "ngo" : true,
+      "userInfo" : null,
+      "ngoInfo" : {
+      "name" : "Associação Ajudar ao Próximo",
+      "phoneNumber" : null,
+      "website" : ""
+      },
+      "address" : {
+      "postalCode" : null,
+      "streetName" : null,  
+      "streetNumber" : null,
+      "apartmentNumber" : null,
+      "city": "Curitiba"
+      },
+      "image": "Não sei como resolver ainda"
+    },
+    {
+      "id": 11,
+      "email": "hospitalsantamaria@gmail.com",
+      "password": "",
+      "ngo" : true,
+      "userInfo" : null,
+      "ngoInfo" : {
+      "name" : "Hospital Santa Maria",
+      "phoneNumber" : null,
+      "website" : ""
+      },
+      "address" : {
+      "postalCode" : null,
+      "streetName" : null,  
+      "streetNumber" : null,
+      "apartmentNumber" : null,
+      "city": "Curitiba"
+      },
+      "image": "Não sei como resolver ainda"
+    },
+    {
+      "id": 12,
+      "email": "lutapelapaz@gmail.com",
+      "password": "",
+      "ngo" : true,
+      "userInfo" : null,
+      "ngoInfo" : {
+      "name" : "Associação Luta pela Paz",
+      "phoneNumber" : null,
+      "website" : ""
+      },
+      "address" : {
+      "postalCode" : null,
+      "streetName" : null,  
+      "streetNumber" : null,
+      "apartmentNumber" : null,
+      "city": "Curitiba"
+      },
+      "image": "Não sei como resolver ainda"
     }
+    
   ],
 
   "campaigns": [
@@ -62,7 +283,9 @@
       "initialDate" : "2021-01-12T16:55:00",
       "endDate" : "2021-01-14T17:00:00",
       "userId" :2
-    }
+    },
+    {"id" : 2,
+    "title": "Campanha do Agasalho d"}
   ],
   "donations": [
     {
