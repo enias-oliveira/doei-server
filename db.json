@@ -4,39 +4,39 @@
       "id": 1,
       "email": "teste@gmail.com",
       "password": "$2a$10$yI/qflzpkjFXjTA4/6PzcurHTOuafbmGGyCCsd2yAWb/mapfOp/46",
-        "ngo" : false,
-      "ngoInfo" : null,
-      "userInfo" : {
-      "firstName" : "Enias",
-      "lastName" : "Oliveira",
-      "phoneNumber" : null
+      "ngo": false,
+      "ngoInfo": null,
+      "userInfo": {
+        "firstName": "Enias",
+        "lastName": "Oliveira",
+        "phoneNumber": null
       },
-      "address" : {
-      "postalCode" : null,
-      "streetName" : null,  
-      "streetNumber" : null,
-      "apartmentNumber" : null,
-      "city": "Curitiba"
+      "address": {
+        "postalCode": null,
+        "streetName": null,
+        "streetNumber": null,
+        "apartmentNumber": null,
+        "city": "Curitiba"
       },
-      "image": "Não sei como resolver ainda" 
+      "image": "Não sei como resolver ainda"
     },
     {
       "id": 2,
       "email": "teste2@gmail.com",
       "password": "$2a$10$IG/IuExdr3N/Ct7W/nkyxeaiCUbNIkUV008fr.3bnoDRVffxP3jHG",
-      "ngo" : true,
-      "userInfo" : null,
-      "ngoInfo" : {
-      "name" : "Associação Pequeno Principe",
-      "phoneNumber" : null,
-      "website" : "pequenoprincipe.com"
+      "ngo": true,
+      "userInfo": null,
+      "ngoInfo": {
+        "name": "Associação Pequeno Principe",
+        "phoneNumber": null,
+        "website": "pequenoprincipe.com"
       },
-      "address" : {
-      "postalCode" : null,
-      "streetName" : null,  
-      "streetNumber" : null,
-      "apartmentNumber" : null,
-      "city": "Curitiba"
+      "address": {
+        "postalCode": null,
+        "streetName": null,
+        "streetNumber": null,
+        "apartmentNumber": null,
+        "city": "Curitiba"
       },
       "image": "Não sei como resolver ainda"
     },
@@ -44,19 +44,19 @@
       "id": 3,
       "email": "hospital.saojoao@gmail.com",
       "password": "",
-      "ngo" : true,
-      "userInfo" : null,
-      "ngoInfo" : {
-      "name" : "Hospital São João",
-      "phoneNumber" : null,
-      "website" : "null"
+      "ngo": true,
+      "userInfo": null,
+      "ngoInfo": {
+        "name": "Hospital São João",
+        "phoneNumber": null,
+        "website": "null"
       },
-      "address" : {
-      "postalCode" : null,
-      "streetName" : null,  
-      "streetNumber" : null,
-      "apartmentNumber" : null,
-      "city": "Curitiba"
+      "address": {
+        "postalCode": null,
+        "streetName": null,
+        "streetNumber": null,
+        "apartmentNumber": null,
+        "city": "Curitiba"
       },
       "image": "Não sei como resolver ainda"
     },
@@ -64,19 +64,19 @@
       "id": 4,
       "email": "amigosdobem@gmail.com",
       "password": "",
-      "ngo" : true,
-      "userInfo" : null,
-      "ngoInfo" : {
-      "name" : "ONG Amigos do Bem",
-      "phoneNumber" : null,
-      "website" : "amigosdobem.com"
+      "ngo": true,
+      "userInfo": null,
+      "ngoInfo": {
+        "name": "ONG Amigos do Bem",
+        "phoneNumber": null,
+        "website": "amigosdobem.com"
       },
-      "address" : {
-      "postalCode" : null,
-      "streetName" : null,  
-      "streetNumber" : null,
-      "apartmentNumber" : null,
-      "city": "Curitiba"
+      "address": {
+        "postalCode": null,
+        "streetName": null,
+        "streetNumber": null,
+        "apartmentNumber": null,
+        "city": "Curitiba"
       },
       "image": "Não sei como resolver ainda"
     },
@@ -84,19 +84,19 @@
       "id": 5,
       "email": "anjosdasalvacao@gmail.com",
       "password": "",
-      "ngo" : true,
-      "userInfo" : null,
-      "ngoInfo" : {
-      "name" : "ONG Anjos da Salvação",
-      "phoneNumber" : null,
-      "website" : "anjosdasalvacao.com"
+      "ngo": true,
+      "userInfo": null,
+      "ngoInfo": {
+        "name": "ONG Anjos da Salvação",
+        "phoneNumber": null,
+        "website": "anjosdasalvacao.com"
       },
-      "address" : {
-      "postalCode" : null,
-      "streetName" : null,  
-      "streetNumber" : null,
-      "apartmentNumber" : null,
-      "city": "Curitiba"
+      "address": {
+        "postalCode": null,
+        "streetName": null,
+        "streetNumber": null,
+        "apartmentNumber": null,
+        "city": "Curitiba"
       },
       "image": "Não sei como resolver ainda"
     },
@@ -104,19 +104,19 @@
       "id": 6,
       "email": "hospitalsaofrancisco@gmail.com",
       "password": "",
-      "ngo" : true,
-      "userInfo" : null,
-      "ngoInfo" : {
-      "name" : "Hospital São Francisco",
-      "phoneNumber" : null,
-      "website" : ""
+      "ngo": true,
+      "userInfo": null,
+      "ngoInfo": {
+        "name": "Hospital São Francisco",
+        "phoneNumber": null,
+        "website": ""
       },
-      "address" : {
-      "postalCode" : null,
-      "streetName" : null,  
-      "streetNumber" : null,
-      "apartmentNumber" : null,
-      "city": "Curitiba"
+      "address": {
+        "postalCode": null,
+        "streetName": null,
+        "streetNumber": null,
+        "apartmentNumber": null,
+        "city": "Curitiba"
       },
       "image": "Não sei como resolver ainda"
     },
@@ -124,19 +124,19 @@
       "id": 7,
       "email": "amigadossonhos@gmail.com",
       "password": "",
-      "ngo" : true,
-      "userInfo" : null,
-      "ngoInfo" : {
-      "name" : "ONG Amiga dos Sonhos",
-      "phoneNumber" : null,
-      "website" : ""
+      "ngo": true,
+      "userInfo": null,
+      "ngoInfo": {
+        "name": "ONG Amiga dos Sonhos",
+        "phoneNumber": null,
+        "website": ""
       },
-      "address" : {
-      "postalCode" : null,
-      "streetName" : null,  
-      "streetNumber" : null,
-      "apartmentNumber" : null,
-      "city": "Curitiba"
+      "address": {
+        "postalCode": null,
+        "streetName": null,
+        "streetNumber": null,
+        "apartmentNumber": null,
+        "city": "Curitiba"
       },
       "image": "Não sei como resolver ainda"
     },
@@ -144,19 +144,19 @@
       "id": 8,
       "email": "recantodobem@gmail.com",
       "password": "",
-      "ngo" : true,
-      "userInfo" : null,
-      "ngoInfo" : {
-      "name" : "ONG Recando do Bem",
-      "phoneNumber" : null,
-      "website" : ""
+      "ngo": true,
+      "userInfo": null,
+      "ngoInfo": {
+        "name": "ONG Recando do Bem",
+        "phoneNumber": null,
+        "website": ""
       },
-      "address" : {
-      "postalCode" : null,
-      "streetName" : null,  
-      "streetNumber" : null,
-      "apartmentNumber" : null,
-      "city": "Curitiba"
+      "address": {
+        "postalCode": null,
+        "streetName": null,
+        "streetNumber": null,
+        "apartmentNumber": null,
+        "city": "Curitiba"
       },
       "image": "Não sei como resolver ainda"
     },
@@ -164,19 +164,19 @@
       "id": 9,
       "email": "encantosolidario@gmail.com",
       "password": "",
-      "ngo" : true,
-      "userInfo" : null,
-      "ngoInfo" : {
-      "name" : "ONG Encanto Solidário",
-      "phoneNumber" : null,
-      "website" : ""
+      "ngo": true,
+      "userInfo": null,
+      "ngoInfo": {
+        "name": "ONG Encanto Solidário",
+        "phoneNumber": null,
+        "website": ""
       },
-      "address" : {
-      "postalCode" : null,
-      "streetName" : null,  
-      "streetNumber" : null,
-      "apartmentNumber" : null,
-      "city": "Curitiba"
+      "address": {
+        "postalCode": null,
+        "streetName": null,
+        "streetNumber": null,
+        "apartmentNumber": null,
+        "city": "Curitiba"
       },
       "image": "Não sei como resolver ainda"
     },
@@ -184,19 +184,19 @@
       "id": 10,
       "email": "hospitalnossasenhoradefatima@gmail.com",
       "password": "",
-      "ngo" : true,
-      "userInfo" : null,
-      "ngoInfo" : {
-      "name" : "Hospital Nossa Senhora de Fátima",
-      "phoneNumber" : null,
-      "website" : ""
+      "ngo": true,
+      "userInfo": null,
+      "ngoInfo": {
+        "name": "Hospital Nossa Senhora de Fátima",
+        "phoneNumber": null,
+        "website": ""
       },
-      "address" : {
-      "postalCode" : null,
-      "streetName" : null,  
-      "streetNumber" : null,
-      "apartmentNumber" : null,
-      "city": "Curitiba"
+      "address": {
+        "postalCode": null,
+        "streetName": null,
+        "streetNumber": null,
+        "apartmentNumber": null,
+        "city": "Curitiba"
       },
       "image": "Não sei como resolver ainda"
     },
@@ -204,19 +204,19 @@
       "id": 10,
       "email": "ajudaraoproximo@gmail.com",
       "password": "",
-      "ngo" : true,
-      "userInfo" : null,
-      "ngoInfo" : {
-      "name" : "Associação Ajudar ao Próximo",
-      "phoneNumber" : null,
-      "website" : ""
+      "ngo": true,
+      "userInfo": null,
+      "ngoInfo": {
+        "name": "Associação Ajudar ao Próximo",
+        "phoneNumber": null,
+        "website": ""
       },
-      "address" : {
-      "postalCode" : null,
-      "streetName" : null,  
-      "streetNumber" : null,
-      "apartmentNumber" : null,
-      "city": "Curitiba"
+      "address": {
+        "postalCode": null,
+        "streetName": null,
+        "streetNumber": null,
+        "apartmentNumber": null,
+        "city": "Curitiba"
       },
       "image": "Não sei como resolver ainda"
     },
@@ -224,19 +224,19 @@
       "id": 11,
       "email": "hospitalsantamaria@gmail.com",
       "password": "",
-      "ngo" : true,
-      "userInfo" : null,
-      "ngoInfo" : {
-      "name" : "Hospital Santa Maria",
-      "phoneNumber" : null,
-      "website" : ""
+      "ngo": true,
+      "userInfo": null,
+      "ngoInfo": {
+        "name": "Hospital Santa Maria",
+        "phoneNumber": null,
+        "website": ""
       },
-      "address" : {
-      "postalCode" : null,
-      "streetName" : null,  
-      "streetNumber" : null,
-      "apartmentNumber" : null,
-      "city": "Curitiba"
+      "address": {
+        "postalCode": null,
+        "streetName": null,
+        "streetNumber": null,
+        "apartmentNumber": null,
+        "city": "Curitiba"
       },
       "image": "Não sei como resolver ainda"
     },
@@ -244,131 +244,131 @@
       "id": 12,
       "email": "lutapelapaz@gmail.com",
       "password": "",
-      "ngo" : true,
-      "userInfo" : null,
-      "ngoInfo" : {
-      "name" : "Associação Luta pela Paz",
-      "phoneNumber" : null,
-      "website" : ""
+      "ngo": true,
+      "userInfo": null,
+      "ngoInfo": {
+        "name": "Associação Luta pela Paz",
+        "phoneNumber": null,
+        "website": ""
       },
-      "address" : {
-      "postalCode" : null,
-      "streetName" : null,  
-      "streetNumber" : null,
-      "apartmentNumber" : null,
-      "city": "Curitiba"
+      "address": {
+        "postalCode": null,
+        "streetName": null,
+        "streetNumber": null,
+        "apartmentNumber": null,
+        "city": "Curitiba"
       },
       "image": "Não sei como resolver ainda"
+    },
+    {
+      "email": "thiago.teste@mail.com",
+      "password": "$2a$10$r3b64rqqIHSkoVz/XUpITOZoPAPrlBeeDLQJyooHUHjqK3XybzE.C",
+      "id": 13
     }
-    
   ],
-
   "campaigns": [
     {
       "id": 0,
       "title": "Meias para os Pequenos Príncipes",
       "about": "Nos ajude doando meias para nossos príncipes e princesas. Precisamos arrecadar 200 pares de meias para crianças de todas as idades.",
-      "donationType" : "Roupas",
-      "goal" : 500,
-      "initialDate" : "10/12/2020",
+      "donationType": "Roupas",
+      "goal": 500,
+      "initialDate": "10/12/2020",
       "endDate": "24/01/2021",
       "ongName": "Associação Pequeno Príncipe",
       "location": "Curitiba-PR",
-      "userId" :2
+      "userId": 2
     },
     {
       "id": 1,
       "title": "Anjos calçados",
       "about": "Campanha de arrecadação de 50 pares de sapatos para crianças de todas as idades.",
-      "initialDate" : "05/12/2020",
+      "initialDate": "05/12/2020",
       "endDate": "22/03/2021",
       "ongName": "ONG Anjos da Salvação",
       "location": "Curitiba-PR",
-      "userId" :5
+      "userId": 5
     },
     {
-      "id" : 2,
+      "id": 2,
       "title": "Campanha do Agasalho Solidário",
       "about": "Temos a meta de arrecadar 500 agasalhos para doação à moradores de rua. ",
-      "initialDate" : "18/01/2021",
+      "initialDate": "18/01/2021",
       "endDate": "20/02/2021",
       "userId": 3,
       "ongName": "Hospital São João",
       "location": "Curitiba-PR"
     },
     {
-      "id" : 3,
+      "id": 3,
       "title": "Campanha do Amigo Feliz",
       "about": "Nos ajude a levar mais felicidade para as crianças. Colabore com a nossa campanha de arrecadação de novas roupas crianças de todas as idades.",
-      "initialDate" : "10/12/2020",
+      "initialDate": "10/12/2020",
       "endDate": "15/02/2021",
       "userId": 4,
       "ongName": "ONG Amigos do Bem",
       "location": "Curitiba-PR"
     },
     {
-      "id" : 4,
+      "id": 4,
       "title": "Campanha Levando Ajuda",
       "about": "Campanha para arrecadação de roupas para moradores de rua de todas as faixas etárias.",
-      "initialDate" : "12/11/2020",
+      "initialDate": "12/11/2020",
       "endDate": "18/03/2021",
       "userId": 10,
       "ongName": "Associação Ajudar ao Próximo",
       "location": "Curitiba-PR"
     },
-     {
-      "id" : 5,
+    {
+      "id": 5,
       "title": "Campanha de arrecadação de roupas do Hospital Santa Maria",
       "about": "Nos ajude doando suas roupas que não estão mais sendo usadas.",
-      "initialDate" : "02/01/2021",
+      "initialDate": "02/01/2021",
       "endDate": "08/02/2021",
       "userId": 11,
       "ongName": "Hospital Santa Maria",
       "location": "Curitiba-PR"
     },
     {
-      "id" : 5,
+      "id": 5,
       "title": "Campanha de arrecadação cobertores",
       "about": "Nos ajude a arrecadar cobertores para os mais necessitados. Temos a meta de arrecadar 150 cobertores para distribuirmos entre pessoas em situação de vulnerabilidade.",
-      "initialDate" : "09/01/2021",
+      "initialDate": "09/01/2021",
       "endDate": "11/02/2021",
       "userId": 12,
       "ongName": "Associação Luta pela Paz",
       "location": "Curitiba-PR"
-    }, 
+    },
     {
-      "id" : 6,
+      "id": 6,
       "title": "Campanha Faça o Bem",
       "about": "Nos ajude com a arrecadação de roupas para todas as faixas etárias (principalmente roupas infantis) para levarmos maior conforto na vida dessas familias. Aceitamos quaisquer peça de roupa.",
-      "initialDate" : "06/01/2021",
+      "initialDate": "06/01/2021",
       "endDate": "12/04/2021",
       "userId": 8,
       "ongName": "ONG Recando do Bem",
       "location": "Curitiba-PR"
     },
-    
-       {
-      "id" : 7,
+    {
+      "id": 7,
       "title": "Campanha de arrecadação de roupas do Hospital Regional",
       "about": "Nos ajude doando suas roupas que não estão mais sendo usadas.",
-      "initialDate" : "02/01/2021",
+      "initialDate": "02/01/2021",
       "endDate": "08/02/2021",
       "userId": 14,
       "ongName": "Hospital Regional",
       "location": "Curitiba-PR"
     },
     {
-      "id" : 8,
+      "id": 8,
       "title": "Campanha Faça o Bem",
       "about": "Nos ajude com a arrecadação de roupas para todas as faixas etárias (principalmente roupas infantis) para levarmos maior conforto na vida dessas familias. Aceitamos quaisquer peça de roupa.",
-      "initialDate" : "06/01/2021",
+      "initialDate": "06/01/2021",
       "endDate": "12/03/2021",
       "userId": 14,
       "ongName": "Hospital Regional",
       "location": "Curitiba-PR"
     }
-    
-
   ],
   "donations": [
     {
@@ -376,18 +376,18 @@
       "campaignId": 0,
       "message": "Vou doar 50 meias",
       "username": "Enias",
-      "scheduledDate" : "2021-01-13T17:00:00",
-      "quantity" : 50,
-      "userId" : 1
+      "scheduledDate": "2021-01-13T17:00:00",
+      "quantity": 50,
+      "userId": 1
     },
     {
       "id": 1,
       "campaignId": 0,
       "message": "Vou doar 10 meias",
       "username": "Felipe",
-      "scheduledDate" : "2021-01-13T17:00:00",
-      "quantity" : 25,
-      "userId" : 1
+      "scheduledDate": "2021-01-13T17:00:00",
+      "quantity": 25,
+      "userId": 1
     }
   ]
 }
