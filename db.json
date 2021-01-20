@@ -345,7 +345,30 @@
       "userId": 8,
       "ongName": "ONG Recando do Bem",
       "location": "Curitiba-PR"
+    },
+    
+       {
+      "id" : 7,
+      "title": "Campanha de arrecadação de roupas do Hospital Regional",
+      "about": "Nos ajude doando suas roupas que não estão mais sendo usadas.",
+      "initialDate" : "02/01/2021",
+      "endDate": "08/02/2021",
+      "userId": 14,
+      "ongName": "Hospital Regional",
+      "location": "Curitiba-PR"
+    },
+    {
+      "id" : 8,
+      "title": "Campanha Faça o Bem",
+      "about": "Nos ajude com a arrecadação de roupas para todas as faixas etárias (principalmente roupas infantis) para levarmos maior conforto na vida dessas familias. Aceitamos quaisquer peça de roupa.",
+      "initialDate" : "06/01/2021",
+      "endDate": "12/03/2021",
+      "userId": 14,
+      "ongName": "Hospital Regional",
+      "location": "Curitiba-PR"
     }
+    
+
   ],
   "donations": [
     {
