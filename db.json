@@ -388,6 +388,24 @@
       "scheduledDate": "2021-01-13T17:00:00",
       "quantity": 25,
       "userId": 1
+    },
+    {
+      "id": 2,
+      "campaignId": 8,
+      "message": "Vou doar um par de calçados e 5 camisas.",
+      "username": "João",
+      "scheduledDate": "2021-01-22T17:13:00",
+      "quantity": 25,
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "campaignId": 7,
+      "message": "Vou doar um par de calçados e 5 jeans,Vou doar um par de calçados e 5 jeansVou doar um par de calçados e 5 jeansVou doar um par de calçados e 5 jeansVou doar um par de calçados e 5 jeansVou doar um par de calçados e 5 jeans .",
+      "username": "João",
+      "scheduledDate": "2021-01-22T17:13:00",
+      "quantity": 25,
+      "userId": 13
     }
   ]
 }
