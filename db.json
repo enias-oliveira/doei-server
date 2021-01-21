@@ -1,269 +1,112 @@
 {
   "users": [
     {
-      "id": 1,
-      "email": "teste@gmail.com",
-      "password": "$2a$10$yI/qflzpkjFXjTA4/6PzcurHTOuafbmGGyCCsd2yAWb/mapfOp/46",
+      "email": "thiago.linhares@email.com",
+      "password": "$2a$10$HSWQpZ5hduWTQfuQ253wY.k07yAMbACUMd0Kb4xsC6wlFwK02En3a",
+      "name": "Thiago Linhares",
+      "email_confirmation": "thiago.linhares@email.com",
+      "password_confirmation": "12345678",
       "ngo": false,
-      "ngoInfo": null,
-      "userInfo": {
-        "firstName": "Enias",
-        "lastName": "Oliveira",
-        "phoneNumber": null
-      },
-      "address": {
-        "postalCode": null,
-        "streetName": null,
-        "streetNumber": null,
-        "apartmentNumber": null,
-        "city": "Curitiba"
-      },
-      "image": "Não sei como resolver ainda"
+      "id": 0
+    },
+    {
+      "email": "raphael@email.com",
+      "password": "$2a$10$YUAW3nLe.PSOQskHkP0DhOh5b45QI.4MRJAIYnhU1XThITcsmBq5O",
+      "name": "Raphael Souza",
+      "email_confirmation": "raphael@email.com",
+      "password_confirmation": "12345678",
+      "ngo": false,
+      "id": 1
     },
     {
       "id": 2,
-      "email": "teste2@gmail.com",
-      "password": "$2a$10$IG/IuExdr3N/Ct7W/nkyxeaiCUbNIkUV008fr.3bnoDRVffxP3jHG",
+      "email": "recantodobem@email.com",
+      "password": "",
       "ngo": true,
-      "userInfo": null,
-      "ngoInfo": {
-        "name": "Associação Pequeno Principe",
-        "phoneNumber": null,
-        "website": "pequenoprincipe.com"
-      },
-      "address": {
-        "postalCode": null,
-        "streetName": null,
-        "streetNumber": null,
-        "apartmentNumber": null,
-        "city": "Curitiba"
-      },
+      "name": "ONG Recanto do Bem",
+      "cnpj": "1234567891234",
+      "email_confirmation": "recantodobem@email.com",
+      "password_confirmation": "",
+      "site": "www.recantodobem.com",
+      "phoneNumber": "(88)99999.9999",
+      "address": "Rua Raul Felix, 456",
+      "city": "Curitiba",
       "image": "Não sei como resolver ainda"
     },
     {
       "id": 3,
-      "email": "hospital.saojoao@gmail.com",
+      "email": "ajudaraoproximo@email.com",
       "password": "",
       "ngo": true,
-      "userInfo": null,
-      "ngoInfo": {
-        "name": "Hospital São João",
-        "phoneNumber": null,
-        "website": "null"
-      },
-      "address": {
-        "postalCode": null,
-        "streetName": null,
-        "streetNumber": null,
-        "apartmentNumber": null,
-        "city": "Curitiba"
-      },
+      "name": "Associação Ajudar ao Próximo",
+      "cnpj": "1234567891234",
+      "email_confirmation": "ajudaraoproximo@email.com",
+      "password_confirmation": "",
+      "site": "www.ajudarproximo.com",
+      "phoneNumber": "(88)99999.9999",
+      "address": "Rua Marte, 445",
+      "city": "Curitiba",
       "image": "Não sei como resolver ainda"
     },
     {
       "id": 4,
-      "email": "amigosdobem@gmail.com",
+      "email": "hospitalsaofrancisco@email.com",
       "password": "",
       "ngo": true,
-      "userInfo": null,
-      "ngoInfo": {
-        "name": "ONG Amigos do Bem",
-        "phoneNumber": null,
-        "website": "amigosdobem.com"
-      },
-      "address": {
-        "postalCode": null,
-        "streetName": null,
-        "streetNumber": null,
-        "apartmentNumber": null,
-        "city": "Curitiba"
-      },
+      "name": "Hospital São Francisco",
+      "cnpj": "1234567891234",
+      "email_confirmation": "hospitapsaofrancisco@email.com",
+      "password_confirmation": "",
+      "site": "www.hospitalsaofrancisco.com",
+      "phoneNumber": "(88)99999.9999",
+      "address": "Rua Tuiucue, 122",
+      "city": "São Paulo",
       "image": "Não sei como resolver ainda"
     },
     {
       "id": 5,
-      "email": "anjosdasalvacao@gmail.com",
+      "email": "anjosdasalvacao@email.com",
       "password": "",
       "ngo": true,
-      "userInfo": null,
-      "ngoInfo": {
-        "name": "ONG Anjos da Salvação",
-        "phoneNumber": null,
-        "website": "anjosdasalvacao.com"
-      },
-      "address": {
-        "postalCode": null,
-        "streetName": null,
-        "streetNumber": null,
-        "apartmentNumber": null,
-        "city": "Curitiba"
-      },
+      "name": "Anjos da Salvação",
+      "cnpj": "1234567891234",
+      "email_confirmation": "anjosdasalvacao@email.com",
+      "password_confirmation": "",
+      "site": "www.anjosdasalvacao.com",
+      "phoneNumber": "(88)99999.9999",
+      "address": "Rua Georgia, 191",
+      "city": "São Paulo",
       "image": "Não sei como resolver ainda"
     },
     {
       "id": 6,
-      "email": "hospitalsaofrancisco@gmail.com",
+      "email": "hospitalsantamaria@email.com",
       "password": "",
       "ngo": true,
-      "userInfo": null,
-      "ngoInfo": {
-        "name": "Hospital São Francisco",
-        "phoneNumber": null,
-        "website": ""
-      },
-      "address": {
-        "postalCode": null,
-        "streetName": null,
-        "streetNumber": null,
-        "apartmentNumber": null,
-        "city": "Curitiba"
-      },
+      "name": "Hospital Santa Maria",
+      "cnpj": "1234567891234",
+      "email_confirmation": "ajudaraoproximo@email.com",
+      "password_confirmation": "",
+      "site": "www.hospitalsantamaria.com",
+      "phoneNumber": "(88)99999.9999",
+      "address": "Rua Avenida das Americas, 15720",
+      "city": "Rio de Janeiro",
       "image": "Não sei como resolver ainda"
     },
     {
       "id": 7,
-      "email": "amigadossonhos@gmail.com",
+      "email": "encantosolidario@email.com",
       "password": "",
       "ngo": true,
-      "userInfo": null,
-      "ngoInfo": {
-        "name": "ONG Amiga dos Sonhos",
-        "phoneNumber": null,
-        "website": ""
-      },
-      "address": {
-        "postalCode": null,
-        "streetName": null,
-        "streetNumber": null,
-        "apartmentNumber": null,
-        "city": "Curitiba"
-      },
+      "name": "Encanto Solidário",
+      "cnpj": "1234567891234",
+      "email_confirmation": "encantosolidario@email.com",
+      "password_confirmation": "",
+      "site": "www.encantosolidario.com",
+      "phoneNumber": "(88)99999.9999",
+      "address": "Rua Avenida Lucio Costa, 16560",
+      "city": "Rio de Janeiro",
       "image": "Não sei como resolver ainda"
-    },
-    {
-      "id": 8,
-      "email": "recantodobem@gmail.com",
-      "password": "",
-      "ngo": true,
-      "userInfo": null,
-      "ngoInfo": {
-        "name": "ONG Recando do Bem",
-        "phoneNumber": null,
-        "website": ""
-      },
-      "address": {
-        "postalCode": null,
-        "streetName": null,
-        "streetNumber": null,
-        "apartmentNumber": null,
-        "city": "Curitiba"
-      },
-      "image": "Não sei como resolver ainda"
-    },
-    {
-      "id": 9,
-      "email": "encantosolidario@gmail.com",
-      "password": "",
-      "ngo": true,
-      "userInfo": null,
-      "ngoInfo": {
-        "name": "ONG Encanto Solidário",
-        "phoneNumber": null,
-        "website": ""
-      },
-      "address": {
-        "postalCode": null,
-        "streetName": null,
-        "streetNumber": null,
-        "apartmentNumber": null,
-        "city": "Curitiba"
-      },
-      "image": "Não sei como resolver ainda"
-    },
-    {
-      "id": 10,
-      "email": "hospitalnossasenhoradefatima@gmail.com",
-      "password": "",
-      "ngo": true,
-      "userInfo": null,
-      "ngoInfo": {
-        "name": "Hospital Nossa Senhora de Fátima",
-        "phoneNumber": null,
-        "website": ""
-      },
-      "address": {
-        "postalCode": null,
-        "streetName": null,
-        "streetNumber": null,
-        "apartmentNumber": null,
-        "city": "Curitiba"
-      },
-      "image": "Não sei como resolver ainda"
-    },
-    {
-      "id": 10,
-      "email": "ajudaraoproximo@gmail.com",
-      "password": "",
-      "ngo": true,
-      "userInfo": null,
-      "ngoInfo": {
-        "name": "Associação Ajudar ao Próximo",
-        "phoneNumber": null,
-        "website": ""
-      },
-      "address": {
-        "postalCode": null,
-        "streetName": null,
-        "streetNumber": null,
-        "apartmentNumber": null,
-        "city": "Curitiba"
-      },
-      "image": "Não sei como resolver ainda"
-    },
-    {
-      "id": 11,
-      "email": "hospitalsantamaria@gmail.com",
-      "password": "",
-      "ngo": true,
-      "userInfo": null,
-      "ngoInfo": {
-        "name": "Hospital Santa Maria",
-        "phoneNumber": null,
-        "website": ""
-      },
-      "address": {
-        "postalCode": null,
-        "streetName": null,
-        "streetNumber": null,
-        "apartmentNumber": null,
-        "city": "Curitiba"
-      },
-      "image": "Não sei como resolver ainda"
-    },
-    {
-      "id": 12,
-      "email": "lutapelapaz@gmail.com",
-      "password": "",
-      "ngo": true,
-      "userInfo": null,
-      "ngoInfo": {
-        "name": "Associação Luta pela Paz",
-        "phoneNumber": null,
-        "website": ""
-      },
-      "address": {
-        "postalCode": null,
-        "streetName": null,
-        "streetNumber": null,
-        "apartmentNumber": null,
-        "city": "Curitiba"
-      },
-      "image": "Não sei como resolver ainda"
-    },
-    {
-      "email": "thiago.teste@mail.com",
-      "password": "$2a$10$r3b64rqqIHSkoVz/XUpITOZoPAPrlBeeDLQJyooHUHjqK3XybzE.C",
-      "id": 13
     }
   ],
   "campaigns": [
@@ -271,153 +114,174 @@
       "id": 0,
       "title": "Meias para os Pequenos Príncipes",
       "about": "Nos ajude doando meias para nossos príncipes e princesas. Precisamos arrecadar 200 pares de meias para crianças de todas as idades.",
-      "donationType": "Roupas",
+      "product": "Meias",
       "goal": 500,
       "initialDate": "10/12/2020",
       "endDate": "24/01/2021",
-      "ongName": "Associação Pequeno Príncipe",
-      "location": "Curitiba-PR",
+      "ongName": "ONG Recanto do Bem",
+      "location": "Curitiba",
       "userId": 2
     },
     {
       "id": 1,
       "title": "Anjos calçados",
       "about": "Campanha de arrecadação de 50 pares de sapatos para crianças de todas as idades.",
+      "product": "Sapatos",
+      "goal": 50,
       "initialDate": "05/12/2020",
       "endDate": "22/03/2021",
-      "ongName": "ONG Anjos da Salvação",
-      "location": "Curitiba-PR",
-      "userId": 5
+      "userId": 2,
+      "ongName": "ONG Recanto do Bem",
+      "location": "Curitiba"
     },
     {
       "id": 2,
-      "title": "Campanha do Agasalho Solidário",
-      "about": "Temos a meta de arrecadar 500 agasalhos para doação à moradores de rua. ",
-      "initialDate": "18/01/2021",
-      "endDate": "20/02/2021",
+      "title": "Campanha Faça o Bem",
+      "about": "Nos ajude com a arrecadação de roupas para todas as faixas etárias (principalmente roupas infantis) para levarmos maior conforto na vida dessas familias. Aceitamos quaisquer peça de roupa.",
+      "product": "Roupas",
+      "goal": 200,
+      "initialDate": "06/01/2021",
+      "endDate": "12/04/2021",
       "userId": 3,
-      "ongName": "Hospital São João",
-      "location": "Curitiba-PR"
+      "ongName": "Associação Ajudar ao Próximo",
+      "location": "Curitiba"
     },
     {
       "id": 3,
-      "title": "Campanha do Amigo Feliz",
-      "about": "Nos ajude a levar mais felicidade para as crianças. Colabore com a nossa campanha de arrecadação de novas roupas crianças de todas as idades.",
-      "initialDate": "10/12/2020",
-      "endDate": "15/02/2021",
-      "userId": 4,
-      "ongName": "ONG Amigos do Bem",
-      "location": "Curitiba-PR"
+      "title": "Campanha de arrecadação de roupas do Hospital Regional",
+      "about": "Nos ajude doando suas roupas que não estão mais sendo usadas.",
+      "product": "Roupas",
+      "goal": 300,
+      "initialDate": "02/01/2021",
+      "endDate": "08/02/2021",
+      "userId": 2,
+      "ongName": "Associação Ajudar ao Próximo",
+      "location": "Curitiba"
     },
     {
       "id": 4,
-      "title": "Campanha Levando Ajuda",
-      "about": "Campanha para arrecadação de roupas para moradores de rua de todas as faixas etárias.",
-      "initialDate": "12/11/2020",
-      "endDate": "18/03/2021",
-      "userId": 10,
-      "ongName": "Associação Ajudar ao Próximo",
-      "location": "Curitiba-PR"
+      "title": "Campanha do Agasalho Solidário",
+      "about": "Temos a meta de arrecadar 500 agasalhos para doação à moradores de rua. ",
+      "product": "agasalhos",
+      "goal": 500,
+      "initialDate": "18/01/2021",
+      "endDate": "20/02/2021",
+      "userId": 4,
+      "ongName": "Hospital São Francisco",
+      "location": "São Paulo"
     },
     {
       "id": 5,
-      "title": "Campanha de arrecadação de roupas do Hospital Santa Maria",
-      "about": "Nos ajude doando suas roupas que não estão mais sendo usadas.",
-      "initialDate": "02/01/2021",
-      "endDate": "08/02/2021",
-      "userId": 11,
-      "ongName": "Hospital Santa Maria",
-      "location": "Curitiba-PR"
-    },
-    {
-      "id": 5,
-      "title": "Campanha de arrecadação cobertores",
-      "about": "Nos ajude a arrecadar cobertores para os mais necessitados. Temos a meta de arrecadar 150 cobertores para distribuirmos entre pessoas em situação de vulnerabilidade.",
-      "initialDate": "09/01/2021",
-      "endDate": "11/02/2021",
-      "userId": 12,
-      "ongName": "Associação Luta pela Paz",
-      "location": "Curitiba-PR"
+      "title": "Campanha Faça o Bem",
+      "about": "Nos ajude com a arrecadação de roupas para todas as faixas etárias (principalmente roupas infantis) para levarmos maior conforto na vida dessas familias. Aceitamos quaisquer peça de roupa.",
+      "product": "Roupas",
+      "goal": 200,
+      "initialDate": "06/01/2021",
+      "endDate": "12/03/2021",
+      "userId": 5,
+      "ongName": "Anjos da Salvação",
+      "location": "São Paulo"
     },
     {
       "id": 6,
-      "title": "Campanha Faça o Bem",
-      "about": "Nos ajude com a arrecadação de roupas para todas as faixas etárias (principalmente roupas infantis) para levarmos maior conforto na vida dessas familias. Aceitamos quaisquer peça de roupa.",
-      "initialDate": "06/01/2021",
-      "endDate": "12/04/2021",
-      "userId": 8,
-      "ongName": "ONG Recando do Bem",
-      "location": "Curitiba-PR"
+      "title": "Campanha do Amigo Feliz",
+      "about": "Nos ajude a levar mais felicidade para as crianças. Colabore com a nossa campanha de arrecadação de novas roupas crianças de todas as idades.",
+      "product": "Roupas",
+      "goal": 200,
+      "initialDate": "10/12/2020",
+      "endDate": "15/02/2021",
+      "userId": 4,
+      "ongName": "Hospital São Francisco",
+      "location": "São Paulo"
     },
     {
       "id": 7,
-      "title": "Campanha de arrecadação de roupas do Hospital Regional",
-      "about": "Nos ajude doando suas roupas que não estão mais sendo usadas.",
-      "initialDate": "02/01/2021",
-      "endDate": "08/02/2021",
-      "userId": 13,
-      "ongName": "Hospital Regional",
-      "location": "Curitiba-PR"
+      "title": "Campanha Levando Ajuda",
+      "about": "Campanha para arrecadação de roupas para moradores de rua de todas as faixas etárias.",
+      "product": "Roupas",
+      "goal": 300,
+      "initialDate": "12/11/2020",
+      "endDate": "18/03/2021",
+      "userId": 6,
+      "ongName": "Hospital Santa Maria",
+      "location": "Rio de Janeiro"
     },
     {
       "id": 8,
-      "title": "Campanha Faça o Bem",
-      "about": "Nos ajude com a arrecadação de roupas para todas as faixas etárias (principalmente roupas infantis) para levarmos maior conforto na vida dessas familias. Aceitamos quaisquer peça de roupa.",
-      "initialDate": "06/01/2021",
-      "endDate": "12/03/2021",
-      "userId": 13,
-      "ongName": "Hospital Regional",
-      "location": "Curitiba-PR"
+      "title": "Campanha de arrecadação de roupas do Hospital Santa Maria",
+      "about": "Nos ajude doando suas roupas que não estão mais sendo usadas.",
+      "product": "Roupas",
+      "goal": 500,
+      "initialDate": "02/01/2021",
+      "endDate": "08/02/2021",
+      "userId": 6,
+      "ongName": "Hospital Santa Maria",
+      "location": "Rio de Janeiro"
+    },
+    {
+      "id": 9,
+      "title": "Campanha de arrecadação cobertores",
+      "about": "Nos ajude a arrecadar cobertores para os mais necessitados. Temos a meta de arrecadar 150 cobertores para distribuirmos entre pessoas em situação de vulnerabilidade.",
+      "product": "Cobertores",
+      "goal": 200,
+      "initialDate": "09/01/2021",
+      "endDate": "11/02/2021",
+      "userId": 7,
+      "ongName": "Encanto Solidário",
+      "location": "Rio de Janeiro"
+    },
+    {
+      "id": 10,
+      "title": "Campanha do Agasalho Solidário",
+      "about": "Temos a meta de arrecadar 500 agasalhos para doação à moradores de rua. ",
+      "product": "Agasalhos",
+      "goal": 500,
+      "initialDate": "18/01/2021",
+      "endDate": "20/02/2021",
+      "userId": 7,
+      "ongName": "Encanto Solidário",
+      "location": "Rio de Janeiro"
     }
   ],
   "donations": [
     {
       "id": 0,
       "campaignId": 0,
-      "message": "Vou doar 50 meias",
-      "username": "Enias",
-      "scheduledDate": "2021-01-13T17:00:00",
+      "ongId": 2,
+      "userId": 0,
+      "product": "Meias",
       "quantity": 50,
-      "userId": 1
+      "message": "Gostaria de doar meias para ajudar.",
+      "scheduledDate": "2021-01-19T10:30",
+      "ongName": "ONG Recanto do Bem",
+      "adTitle": "Meias para os Pequenos Príncipes",
+      "endDate": "24/01/2021"
     },
     {
       "id": 1,
-      "campaignId": 0,
-      "message": "Vou doar 10 meias",
-      "username": "Felipe",
-      "scheduledDate": "2021-01-13T17:00:00",
-      "quantity": 25,
-      "userId": 1
+      "campaignId": 2,
+      "ongId": 3,
+      "userId": 0,
+      "product": "sapato",
+      "quantity": 10,
+      "message": "Gostaria de doar sapatos para ajudar.",
+      "scheduledDate": "2021-01-19T10:30",
+      "ongName": "Associação Ajudar ao Próximo",
+      "adTitle": "Anjos calçados",
+      "endDate": "24/01/2021"
     },
     {
       "id": 2,
-      "campaignId": 8,
-      "message": "Vou doar um par de calçados e 5 camisas.",
-      "username": "João",
-      "scheduledDate": "2021-01-22T17:13:00",
-      "quantity": 25,
-      "userId": 1,
-      "ongId" : 13
-    },
-    {
-      "id": 3,
-      "campaignId": 7,
-      "message": "Vou doar um par de calçados e 5 jeans,Vou doar um par de calçados e 5 jeansVou doar um par de calçados e 5 jeansVou doar um par de calçados e 5 jeansVou doar um par de calçados e 5 jeansVou doar um par de calçados e 5 jeans .",
-      "username": "João",
-      "scheduledDate": "2021-01-22T17:13:00",
-      "quantity": 25,
-      "userId": 13,
-      "ongId" : 13
-    },
-    {
-      "id": 4,
-      "campaignId": 7,
-      "message": "Vou doar um par de calçados e 5 jeans,Vou doar um par de calçados e 5 jeansVou doar um par de calçados e 5 jeansVou doar um par de calçados e 5 jeansVou doar um par de calçados e 5 jeansVou doar um par de calçados e 5 jeans .",
-      "username": "João",
-      "scheduledDate": "2021-01-22T17:13:00",
-      "quantity": 25,
-      "userId": 1,
-      "ongId" : 13
+      "campaignId": 4,
+      "ongId": 4,
+      "userId": 0,
+      "product": "Agasalhos",
+      "quantity": 5,
+      "message": "Gostaria de doar agasalhos para ajudar.",
+      "scheduledDate": "2021-01-19T10:30",
+      "ongName": "Hospital São Francisco",
+      "adTitle": "Campanha do Agasalho Solidário",
+      "endDate": "24/01/2021"
     }
   ]
 }
