@@ -107,6 +107,16 @@
       "address": "Rua Avenida Lucio Costa, 16560",
       "city": "Rio de Janeiro",
       "image": "Não sei como resolver ainda"
+    },
+    {
+      "id": 8,
+      "email": "enias@email.com",
+      "password": "$2a$10$HSWQpZ5hduWTQfuQ253wY.k07yAMbACUMd0Kb4xsC6wlFwK02En3a",
+      "name": "Enias Oliveira",
+      "email_confirmation": "enias.oliveira@email.com",
+      "password_confirmation": "12345678",
+      "ngo": false,
+      "image" : "https://gitlab.com/uploads/-/system/user/avatar/6534269/avatar.png?width=400"
     }
   ],
   "campaigns": [
