@@ -7,8 +7,7 @@
       "email_confirmation": "thiago.linhares@email.com",
       "password_confirmation": "12345678",
       "ngo": false,
-      "id": 0,
-      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
+      "id": 0
     },
     {
       "email": "raphael@email.com",
@@ -17,8 +16,7 @@
       "email_confirmation": "raphael@email.com",
       "password_confirmation": "12345678",
       "ngo": false,
-      "id": 1,
-      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
+      "id": 1
     },
     {
       "id": 2,
@@ -33,7 +31,7 @@
       "phoneNumber": "(88)99999.9999",
       "address": "Rua Raul Felix, 456",
       "city": "Curitiba",
-      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
+      "image": "Não sei como resolver ainda"
     },
     {
       "id": 3,
@@ -48,7 +46,7 @@
       "phoneNumber": "(88)99999.9999",
       "address": "Rua Marte, 445",
       "city": "Curitiba",
-      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
+      "image": "Não sei como resolver ainda"
     },
     {
       "id": 4,
@@ -63,7 +61,7 @@
       "phoneNumber": "(88)99999.9999",
       "address": "Rua Tuiucue, 122",
       "city": "São Paulo",
-      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
+      "image": "Não sei como resolver ainda"
     },
     {
       "id": 5,
@@ -78,7 +76,7 @@
       "phoneNumber": "(88)99999.9999",
       "address": "Rua Georgia, 191",
       "city": "São Paulo",
-      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
+      "image": "Não sei como resolver ainda"
     },
     {
       "id": 6,
@@ -93,7 +91,7 @@
       "phoneNumber": "(88)99999.9999",
       "address": "Rua Avenida das Americas, 15720",
       "city": "Rio de Janeiro",
-      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
+      "image": "Não sei como resolver ainda"
     },
     {
       "id": 7,
@@ -108,7 +106,7 @@
       "phoneNumber": "(88)99999.9999",
       "address": "Rua Avenida Lucio Costa, 16560",
       "city": "Rio de Janeiro",
-      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
+      "image": "Não sei como resolver ainda"
     },
     {
       "id": 8,
@@ -118,7 +116,7 @@
       "email_confirmation": "enias.oliveira@email.com",
       "password_confirmation": "12345678",
       "ngo": false,
-      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
+      "image" : "https://gitlab.com/uploads/-/system/user/avatar/6534269/avatar.png?width=400"
     }
   ],
   "campaigns": [
