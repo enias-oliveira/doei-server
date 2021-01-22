@@ -7,7 +7,8 @@
       "email_confirmation": "thiago.linhares@email.com",
       "password_confirmation": "12345678",
       "ngo": false,
-      "id": 0
+      "id": 0,
+      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
     },
     {
       "email": "raphael@email.com",
@@ -16,7 +17,8 @@
       "email_confirmation": "raphael@email.com",
       "password_confirmation": "12345678",
       "ngo": false,
-      "id": 1
+      "id": 1,
+      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
     },
     {
       "id": 2,
@@ -31,7 +33,7 @@
       "phoneNumber": "(88)99999.9999",
       "address": "Rua Raul Felix, 456",
       "city": "Curitiba",
-      "image": "Não sei como resolver ainda"
+      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
     },
     {
       "id": 3,
@@ -46,7 +48,7 @@
       "phoneNumber": "(88)99999.9999",
       "address": "Rua Marte, 445",
       "city": "Curitiba",
-      "image": "Não sei como resolver ainda"
+      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
     },
     {
       "id": 4,
@@ -61,7 +63,7 @@
       "phoneNumber": "(88)99999.9999",
       "address": "Rua Tuiucue, 122",
       "city": "São Paulo",
-      "image": "Não sei como resolver ainda"
+      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
     },
     {
       "id": 5,
@@ -76,7 +78,7 @@
       "phoneNumber": "(88)99999.9999",
       "address": "Rua Georgia, 191",
       "city": "São Paulo",
-      "image": "Não sei como resolver ainda"
+      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
     },
     {
       "id": 6,
@@ -91,7 +93,7 @@
       "phoneNumber": "(88)99999.9999",
       "address": "Rua Avenida das Americas, 15720",
       "city": "Rio de Janeiro",
-      "image": "Não sei como resolver ainda"
+      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
     },
     {
       "id": 7,
@@ -106,7 +108,7 @@
       "phoneNumber": "(88)99999.9999",
       "address": "Rua Avenida Lucio Costa, 16560",
       "city": "Rio de Janeiro",
-      "image": "Não sei como resolver ainda"
+      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
     },
     {
       "id": 8,
@@ -116,7 +118,7 @@
       "email_confirmation": "enias.oliveira@email.com",
       "password_confirmation": "12345678",
       "ngo": false,
-      "image" : "https://gitlab.com/uploads/-/system/user/avatar/6534269/avatar.png?width=400"
+      "image" : "https://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.pnghttps://icons-for-free.com/iconfiles/png/512/free+outline+people+profile+ui+icon-1320196081912311498.png"
     }
   ],
   "campaigns": [
@@ -126,8 +128,8 @@
       "about": "Nos ajude doando meias para nossos príncipes e princesas. Precisamos arrecadar 200 pares de meias para crianças de todas as idades.",
       "product": "Meias",
       "goal": 500,
-      "initialDate": "10/12/2020",
-      "endDate": "24/01/2021",
+      "initialDate": "2020-12-10T10:30",
+      "endDate": "2021-03-19T10:30",
       "ongName": "ONG Recanto do Bem",
       "location": "Curitiba",
       "userId": 2
@@ -138,8 +140,8 @@
       "about": "Campanha de arrecadação de 50 pares de sapatos para crianças de todas as idades.",
       "product": "Sapatos",
       "goal": 50,
-      "initialDate": "05/12/2020",
-      "endDate": "22/03/2021",
+      "initialDate": "2020-12-10T10:30",
+      "endDate": "2021-02-19T10:30",
       "userId": 2,
       "ongName": "ONG Recanto do Bem",
       "location": "Curitiba"
@@ -150,8 +152,8 @@
       "about": "Nos ajude com a arrecadação de roupas para todas as faixas etárias (principalmente roupas infantis) para levarmos maior conforto na vida dessas familias. Aceitamos quaisquer peça de roupa.",
       "product": "Roupas",
       "goal": 200,
-      "initialDate": "06/01/2021",
-      "endDate": "12/04/2021",
+      "initialDate": "2021-03-19T10:30",
+      "endDate": "2021-01-19T11:30",
       "userId": 3,
       "ongName": "Associação Ajudar ao Próximo",
       "location": "Curitiba"
@@ -162,8 +164,8 @@
       "about": "Nos ajude doando suas roupas que não estão mais sendo usadas.",
       "product": "Roupas",
       "goal": 300,
-      "initialDate": "02/01/2021",
-      "endDate": "08/02/2021",
+      "initialDate": "2021-03-19T10:30",
+      "endDate": "2021-03-19T10:30",
       "userId": 2,
       "ongName": "Associação Ajudar ao Próximo",
       "location": "Curitiba"
@@ -174,8 +176,8 @@
       "about": "Temos a meta de arrecadar 500 agasalhos para doação à moradores de rua. ",
       "product": "agasalhos",
       "goal": 500,
-      "initialDate": "18/01/2021",
-      "endDate": "20/02/2021",
+      "initialDate": "2021-03-19T10:30",
+      "endDate": "2021-03-19T10:30",
       "userId": 4,
       "ongName": "Hospital São Francisco",
       "location": "São Paulo"
@@ -186,8 +188,8 @@
       "about": "Nos ajude com a arrecadação de roupas para todas as faixas etárias (principalmente roupas infantis) para levarmos maior conforto na vida dessas familias. Aceitamos quaisquer peça de roupa.",
       "product": "Roupas",
       "goal": 200,
-      "initialDate": "06/01/2021",
-      "endDate": "12/03/2021",
+      "initialDate": "2021-03-19T10:30",
+      "endDate": "2021-03-19T10:30",
       "userId": 5,
       "ongName": "Anjos da Salvação",
       "location": "São Paulo"
@@ -198,8 +200,8 @@
       "about": "Nos ajude a levar mais felicidade para as crianças. Colabore com a nossa campanha de arrecadação de novas roupas crianças de todas as idades.",
       "product": "Roupas",
       "goal": 200,
-      "initialDate": "10/12/2020",
-      "endDate": "15/02/2021",
+      "initialDate": "2021-03-19T10:30",
+      "endDate": "2021-03-19T10:30",
       "userId": 4,
       "ongName": "Hospital São Francisco",
       "location": "São Paulo"
@@ -210,8 +212,8 @@
       "about": "Campanha para arrecadação de roupas para moradores de rua de todas as faixas etárias.",
       "product": "Roupas",
       "goal": 300,
-      "initialDate": "12/11/2020",
-      "endDate": "18/03/2021",
+      "initialDate": "2021-03-19T10:30",
+      "endDate": "2021-03-19T10:30",
       "userId": 6,
       "ongName": "Hospital Santa Maria",
       "location": "Rio de Janeiro"
@@ -222,8 +224,8 @@
       "about": "Nos ajude doando suas roupas que não estão mais sendo usadas.",
       "product": "Roupas",
       "goal": 500,
-      "initialDate": "02/01/2021",
-      "endDate": "08/02/2021",
+      "initialDate": "2021-03-19T10:30",
+      "endDate": "2021-03-19T10:30",
       "userId": 6,
       "ongName": "Hospital Santa Maria",
       "location": "Rio de Janeiro"
@@ -234,8 +236,8 @@
       "about": "Nos ajude a arrecadar cobertores para os mais necessitados. Temos a meta de arrecadar 150 cobertores para distribuirmos entre pessoas em situação de vulnerabilidade.",
       "product": "Cobertores",
       "goal": 200,
-      "initialDate": "09/01/2021",
-      "endDate": "11/02/2021",
+      "initialDate": "2021-01-19T10:30",
+      "endDate": "2021-03-19T10:30",
       "userId": 7,
       "ongName": "Encanto Solidário",
       "location": "Rio de Janeiro"
@@ -246,8 +248,8 @@
       "about": "Temos a meta de arrecadar 500 agasalhos para doação à moradores de rua. ",
       "product": "Agasalhos",
       "goal": 500,
-      "initialDate": "18/01/2021",
-      "endDate": "20/02/2021",
+      "initialDate": "2021-01-19T10:30",
+      "endDate": "2021-03-19T10:30",
       "userId": 7,
       "ongName": "Encanto Solidário",
       "location": "Rio de Janeiro"
