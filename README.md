@@ -16,7 +16,7 @@
 
 # Cpastone-4: API
 
-Está é a API para a aplicação &ldquo;Sem Nome&rdquo;, um site onde ONGs podem solicitar doações, como roupas, e voluntários possam achar uma ONG para ajudar. O objeto é facilitar ao máximo o processo de achar um ONG e ajudar, com informações atualizadas e de fácil acesso, tudo centralizado em um único espaço.
+Está é a API para a aplicação &ldquo;Doei&rdquo;, um site onde ONGs podem solicitar doações, como roupas, e voluntários possam achar uma ONG para ajudar. O objeto é facilitar ao máximo o processo de achar um ONG e ajudar, com informações atualizadas e de fácil acesso, tudo centralizado em um único espaço.
 
 Essa API foi feita usando o JSON-Server e está hospedada na Heroku. Ela foi feita exclusivamente para prototipação e não recomendamos passar qualquer informação sensível.
 
